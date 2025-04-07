@@ -13,7 +13,7 @@ Establish project structure, version control, documentation, and gather referenc
 - [x] Install GitHub Desktop and sync repo
 - [x] Learn basic Markdown syntax for documentation
 - [x] Add roadmap.md to project repo
-- [ ] Choose an open-source license (MIT, Apache, etc.)
+- [x] Choose an open-source license (MIT, Apache, etc.)
 - [x] Assign team member roles and responsibilities
 - [ ] Plan input structure and possible output format
 
