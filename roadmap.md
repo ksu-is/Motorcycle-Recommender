@@ -10,7 +10,7 @@ Establish project structure, version control, documentation, and gather referenc
 - [x] Add README.md to project
 - [ ] Search for a related existing motorcycle recommendation repository
 - [ ] Clone related repository and evaluate codebase
-- [ ] Install GitHub Desktop and sync repo
+- [x] Install GitHub Desktop and sync repo
 - [x] Learn basic Markdown syntax for documentation
 - [x] Add roadmap.md to project repo
 - [ ] Choose an open-source license (MIT, Apache, etc.)
