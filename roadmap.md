@@ -8,14 +8,14 @@ Establish project structure, version control, documentation, and gather referenc
 ### ✅ Tasks
 - [x] Create GitHub repository under ksu-is team
 - [x] Add README.md to project
-- [ ] Search for a related existing motorcycle recommendation repository
-- [ ] Clone related repository and evaluate codebase
+- [x] Search for a related existing motorcycle recommendation repository
+- [x] Clone related repository and evaluate codebase
 - [x] Install GitHub Desktop and sync repo
 - [x] Learn basic Markdown syntax for documentation
 - [x] Add roadmap.md to project repo
 - [x] Choose an open-source license (MIT, Apache, etc.)
 - [x] Assign team member roles and responsibilities
-- [ ] Plan input structure and possible output format
+- [x] Plan input structure and possible output format
 
 ### 👤 Team Members
 - Ali Siddiqi
