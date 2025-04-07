@@ -1,0 +1,21 @@
+# 🛣️ Motorcycle Recommender Project Roadmap
+
+## 🗓️ Sprint 1 (Weeks 1-2)
+
+### 🎯 Goal:
+Establish project structure, version control, documentation, and gather reference material.
+
+### ✅ Tasks
+- [x] Create GitHub repository under ksu-is team
+- [x] Add README.md to project
+- [ ] Search for a related existing motorcycle recommendation repository
+- [ ] Clone related repository and evaluate codebase
+- [ ] Install GitHub Desktop and sync repo
+- [x] Learn basic Markdown syntax for documentation
+- [x] Add roadmap.md to project repo
+- [ ] Choose an open-source license (MIT, Apache, etc.)
+- [x] Assign team member roles and responsibilities
+- [ ] Plan input structure and possible output format
+
+### 👤 Team Members
+- Ali Siddiqi
