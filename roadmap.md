@@ -17,5 +17,25 @@ Establish project structure, version control, documentation, and gather referenc
 - [x] Assign team member roles and responsibilities
 - [x] Plan input structure and possible output format
 
+## 🗓️ Sprint 2 (Weeks 2-3)
+
+### ✅ Tasks
+- [x] Make GitHub repositorsy public
+- [x] Update README.md 
+- [x] Search for a related existing motorcycle recommendation repository
+- [x] Clone related repository and evaluate codebase
+- [x] Update roadmap.md on project repo
+- [x] Establish and test run code
+- [x] Research more models to implement into the machine
+- [] Identify bugs/potential improvements
+
+## 🗓️ Sprint 3 (Weeks 3-4)
+
+### ✅ Tasks
+- [] Ma
+- []
+- []
+- []
+
 ### 👤 Team Members
 - Ali Siddiqi
