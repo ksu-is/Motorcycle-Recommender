@@ -27,14 +27,14 @@ Establish project structure, version control, documentation, and gather referenc
 - [x] Update roadmap.md on project repo
 - [x] Establish and test run code
 - [x] Research more models to implement into the machine
-- [] Identify bugs/potential improvements
+- [x] Identify bugs/potential improvements
 
 ## 🗓️ Sprint 3 (Weeks 3-4)
 
 ### ✅ Tasks
-- [] Ma
-- []
-- []
+- [x] Construct PowerPoint for presentation day
+- [] Add more models to machine
+- [] Try to correct poor recomendations 
 - []
 
 ### 👤 Team Members
